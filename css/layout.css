@@ -23,6 +23,11 @@
 }
 
 /* Positioning Classes */
+
+section {
+  margin: 20px 0;
+}
+
 .col-1 {
   float: left;
   width: 32%;
