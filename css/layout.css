@@ -33,10 +33,6 @@
   width: 64%;
 }
 
-.col-3 {
-
-}
-
 [class *= "col-"] {
   margin: 2%;
 }
